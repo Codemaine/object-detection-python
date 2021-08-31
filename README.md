@@ -6,7 +6,7 @@ A simple object-detection app built with opencv and python
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies.
 
 ```bash
-pip install cv2
+pip install opencv-python
 ```
 
 ## Usage
