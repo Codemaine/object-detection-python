@@ -12,7 +12,6 @@ pip install cv2
 ## Usage
 
 ```bash
-$ source venv/bin/activate
 $ python main.py
 ```
 
